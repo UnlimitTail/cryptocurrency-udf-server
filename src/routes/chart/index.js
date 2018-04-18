@@ -5,7 +5,7 @@ const CUG = require('cryptocurrency-udf-gateway');
 router.get('/config', function(req, res, next) {
   CUG.Chart.Helpers.config(function(err, result){
     if (err){
-      res.json(EMPTY_HISTORY);
+      res.json({});
     } else {
       res.json(result);
     }
