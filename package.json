@@ -1,5 +1,5 @@
 {
-  "name": "project-p-udfapi",
+  "name": "cryptocurrency-udf-server",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://yangga@bitbucket.org/madtail/project-p-udfapi.git"
+    "url": "https://github.com/UnlimitTail/cryptocurrency-udf-server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/madtail/project-p-udfapi#readme",
+  "homepage": "https://github.com/UnlimitTail/cryptocurrency-udf-server#readme",
   "dependencies": {
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
